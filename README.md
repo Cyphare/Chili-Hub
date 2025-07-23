@@ -1,6 +1,6 @@
 # 🌶️ Chili-Hub: Your Remote Chili Farming Solution
 
-[![Things Inc.](https://img.shields.io/badge/by-Things%20Inc.-blueviolet)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Things Inc.](https://img.shields.io/badge/by-Things%20Inc.-blueviolet)
 
 ## 🔗 Project URLs
 
