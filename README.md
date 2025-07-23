@@ -7,6 +7,7 @@
 * **Wokwi Simulation:** https://wokwi.com/projects/437009706141224961
 * **Node-RED Flow:** https://drive.google.com/file/d/1b0BsL0PSLZP9Eoh9Xw1kVA7S1Iajshc1/
 * **Circuit Diagram (Cirkit):** https://s.id/cirkit04
+* **Canva:** https://www.canva.com/design/DAGts2mLYqo/kaFWn-YhG1lqelKVyaEjuA/view
 
 ## 👥 Authors
 
